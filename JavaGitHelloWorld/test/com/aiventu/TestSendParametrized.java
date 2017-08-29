@@ -1,4 +1,4 @@
-package com.aiventu.tdd;
+package com.aiventu;
 
 import java.util.Arrays;
 import java.util.List;
